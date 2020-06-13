@@ -9,4 +9,6 @@ Compile YOLO as C++ DLL-file and Build a Linux-GPU-Docker to use this .dll
 6. Run darknet.exe with YOLOv3: darknet.exe detect cfg\yolov3.cfg yolov3.weights data\dog.jpg
 7. Run darknet.exe with YOLOv4: darknet.exe detect cfg\yolov4.cfg yolov4.weights data\dog.jpg </br>
 
-If you 
+Note: 
+1. xxx
+2. xxx
