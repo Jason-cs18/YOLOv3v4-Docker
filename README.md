@@ -21,5 +21,7 @@ If you have installed different versions of CUDA and OpenCV, I recommend you to 
 Reference: https://zhuanlan.zhihu.com/p/97605980
 # Use yolo_cpp_dll.dll in your C++ console application
 xxx
-# Build a Linux-CUDA-Docker image to call yolo_cpp_dll.dll
+# Build a Linux-CUDA-Docker image
+xxx
+# Call yolo_cpp_dll.dll in this docker image
 xxx
