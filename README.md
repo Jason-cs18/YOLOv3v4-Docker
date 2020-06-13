@@ -23,5 +23,5 @@ Reference: https://zhuanlan.zhihu.com/p/97605980
 xxx
 # Build a Linux-CUDA-Docker image
 xxx
-# Call yolo_cpp_dll.dll in this docker image
+# Use yolo_cpp_dll.dll in this docker image
 xxx
