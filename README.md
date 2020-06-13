@@ -9,7 +9,7 @@ Compile YOLO as C++ DLL-file and Build a Linux-GPU-Docker to use this .dll
 6. Run darknet.exe with YOLOv3: darknet.exe detect cfg\yolov3.cfg yolov3.weights data\dog.jpg
 7. Run darknet.exe with YOLOv4: darknet.exe detect cfg\yolov4.cfg yolov4.weights data\dog.jpg </br>
 
-System variables on my PC: 
+## System variables on my PC: 
 1. CUDA_PATH: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1
 2. CUDA_PATH_V10_1: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1
 3. CUDNN: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin
