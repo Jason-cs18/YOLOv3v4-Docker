@@ -17,3 +17,5 @@ Compile YOLO as C++ DLL-file and Build a Linux-GPU-Docker to use this .dll
 5. PATH: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\libnvvp; D:\Software\opencv\build\x64\vc15\bin; D:\Software\opencv\build\x64\vc15\lib; D:\Code\darknet\build\darknet\x64
 
 If you have installed different versions of CUDA and OpenCV, I recommend you to compile your darknet.exe as described in [blog](https://www.jianshu.com/p/f944ebd43f4c).
+# Compile yolo_cpp_dll.dll and generate yolo_cpp_dll.lib 
+Reference: https://zhuanlan.zhihu.com/p/97605980
