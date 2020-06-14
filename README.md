@@ -24,7 +24,7 @@ Reference: http://yy-programer.blogspot.com/2019/01/yolo-darknet.html (step-by-s
 2. (C++) yolo_console_dll.exe
 3. (Python) python darknet.py
 ## 4. Build a Linux-CUDA-Docker image
-xxx
+If you are unfamiliar with docker, you can refer to [fast-tutorial](https://github.com/YanLu-nyu/YOLOv3v4-Docker/blob/master/docker/basic_usage.md) at first.
 ## References
 1. [YOLOv4: Optimal Speed and Accuracy of Object Detection. arXiv 2004.10934.](https://arxiv.org/abs/2004.10934)
 2. [YOLOv3: An Incremental Improvement. arXiv 1804.02767.](https://arxiv.org/abs/1804.02767)
