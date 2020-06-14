@@ -1,6 +1,6 @@
 # YOLOv3v4-Docker
 Compile YOLO from [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet#requirements) as C++ DLL-file on Windows and Build a Linux-CUDA-Docker to use SO-file.
-# Run darknet.exe directly on Windows 10 (CUDA 10.1+OpenCV 4.3.0)
+## 1. Run darknet.exe directly on Windows 10 (CUDA 10.1+OpenCV 4.3.0)
 1. download darknet from [Google Drive](https://drive.google.com/file/d/1nsjulqleP953mkWo5GCqHdXbM7aS-tgl/view?usp=sharing) (if you have same CUDA and OpenCV, you may run it successfully);
 2. extract darknet folder from darknet.7z;
 3. enter darknet folder (you can see darknet.exe in this folder);
@@ -17,11 +17,11 @@ Compile YOLO from [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet#require
 5. PATH: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\libnvvp; D:\Software\opencv\build\x64\vc15\bin; D:\Software\opencv\build\x64\vc15\lib; D:\Code\darknet\build\darknet\x64
 
 If you have installed different versions of CUDA and OpenCV, I recommend you to compile your darknet.exe as described in [blog](https://www.jianshu.com/p/f944ebd43f4c).
-# Compile yolo_cpp_dll.dll and generate yolo_cpp_dll.lib 
+## 2. Compile yolo_cpp_dll.dll and generate yolo_cpp_dll.lib 
 Reference: http://yy-programer.blogspot.com/2019/01/yolo-darknet.html (step-by-step tutorial in Chinese)
-# Use yolo_cpp_dll.dll in your C++ console application and python example
+## 3. Use yolo_cpp_dll.dll in your C++ console application and python example
 1. enter darknet\build\darknet\x64\ folder;
 2. (C++) yolo_console_dll.exe
 3. (Python) python darknet.py
-# Build a Linux-CUDA-Docker image
+## 4. Build a Linux-CUDA-Docker image
 xxx
