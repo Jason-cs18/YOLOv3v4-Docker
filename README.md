@@ -18,12 +18,10 @@ Compile YOLO from [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet#require
 
 If you have installed different versions of CUDA and OpenCV, I recommend you to compile your darknet.exe as described in [blog](https://www.jianshu.com/p/f944ebd43f4c).
 # Compile yolo_cpp_dll.dll and generate yolo_cpp_dll.lib 
-Reference: http://yy-programer.blogspot.com/2019/01/yolo-darknet.html
+Reference: http://yy-programer.blogspot.com/2019/01/yolo-darknet.html (step-by-step tutorial in Chinese)
 # Use yolo_cpp_dll.dll in your C++ console application and python example
 1. enter darknet\build\darknet\x64\ folder;
 2. (C++) yolo_console_dll.exe
 3. (Python) python darknet.py
 # Build a Linux-CUDA-Docker image
-xxx
-# Use yolo_cpp_dll.dll in this docker image
 xxx
