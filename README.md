@@ -25,3 +25,6 @@ Reference: http://yy-programer.blogspot.com/2019/01/yolo-darknet.html (step-by-s
 3. (Python) python darknet.py
 ## 4. Build a Linux-CUDA-Docker image
 xxx
+## Reference
+1. [YOLOv4: Optimal Speed and Accuracy of Object Detection. arXiv 2004.10934.](https://arxiv.org/abs/2004.10934)
+2. [YOLOv3: An Incremental Improvement. arXiv 1804.02767.](https://arxiv.org/abs/1804.02767)
