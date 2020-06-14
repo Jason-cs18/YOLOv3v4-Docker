@@ -1,5 +1,5 @@
 # YOLOv3v4-Docker
-Compile YOLO from [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet#requirements) as C++ DLL-file and Build a Linux-CUDA-Docker to use SO-file.
+Compile YOLO from [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet#requirements) as C++ DLL-file on Windows and Build a Linux-CUDA-Docker to use SO-file.
 # Run darknet.exe directly on Windows 10 (CUDA 10.1+OpenCV 4.3.0)
 1. download darknet from [Google Drive](https://drive.google.com/file/d/1AY_Ix7EW0fQwPgMKmv30UokBmUl8v47Y/view?usp=sharing) (if you have same CUDA and OpenCV, you may run it successfully);
 2. extract darknet folder from darknet.7z;
